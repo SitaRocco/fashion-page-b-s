@@ -1,0 +1,27 @@
+$font-family-sans-serif: 'Italiana', sans-serif;
+$principal:#E2D2B7;
+$primary:$principal;
+
+.btn.btn-primary {
+    border: 1px solid #713C25;  // Define un borde delgado
+    background-color: transparent;  // Fondo transparente
+    color: #713C25;  // Color del texto
+    transition: border-color 0.3s, color 0.3s;  // Agrega una transición suave
+  
+    &:hover {
+      border-color: #713C25;  // Cambia el color del borde en el hover
+      color: #713C25;  // Cambia el color del texto en el hover
+    }
+  
+    &:active {
+      border-color: #713C25;  // Cambia el color del borde al hacer clic
+      color: #713C25;  // Cambia el color del texto al hacer clic
+    }
+  }
+  
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+ 

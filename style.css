@@ -1,0 +1,72 @@
+ h1 {
+  font-size: 12vw;
+  margin-bottom: -6vh; 
+    
+}
+
+
+ h2{
+    font-size: 8vw;
+    margin-left: 2vw;
+    margin-top: -131vw;
+    color: blue;
+       
+}
+
+ p {
+    margin-left: 2vw;
+    margin-top: 5vh;
+    font-size: 2vw;
+    
+ }
+
+ #curvy {
+   margin-top: -11vh;
+   height: 30%; 
+    
+ }
+
+
+ body {
+  background-color:#E2D2B7;
+ }
+
+ .big_beauty {
+  font-size: 13vw;
+  margin-left: 28vw;
+  color: #BE6C42;
+  margin-top: -53.4vw;
+  padding-top:-18vh;
+
+ }
+
+
+h3{
+  margin-left: 90px;
+  font-size: 3vw;
+  
+}
+
+.btn.btn-primary {
+  border: 1px solid #713C25;  
+  background-color: transparent; 
+  color: #713C25; 
+  margin-top: 20px; 
+  margin-bottom: 10px;
+}
+
+  &:hover {
+    border-color: #713C25;  
+    color: #713C25; 
+  }
+
+  &:active {
+    border-color: #713C25; 
+    color: #713C25; 
+  }
+
+  .quote {
+    margin-top: -39vw;
+    margin-left: 31vw;
+  }
+  
